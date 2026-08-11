@@ -1,0 +1,2 @@
+# In-silico-analysis-of-Human-TLR-4-Gene-and-Protein
+An in-silico bioinformatics study of human TLR4 . Using NCBI, UniProt, ProtParam, CDD, and DSSP, we mapped its LRR and TIR domain structures. STRING, KEGG, and Reactome confirmed MyD88-dependent immune signaling. ClinVar mapped key variants (rs4986790), while GEPIA 3 identified TLR4 as a favorable prognostic biomarker in KIRC,LAML ,LUAD, THYM, TGCT
