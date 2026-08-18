@@ -122,6 +122,7 @@ The following parameters were investigated:
 - Instability index- 43.05
 - Aliphatic index- 101.86
 - GRAVY hydropathicity score- 0.033
+  
 -Total number of negatively charged residues (Asp + Glu)- 83
 -Total number of positively charged residues (Arg + Lys)- 68
 
