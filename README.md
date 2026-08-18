@@ -127,4 +127,6 @@ The following parameters were investigated:
 
 ### Total amino acid composition
 
+-[TLR4 amino acid composition](data/TLR4_amino_acid_composition.csv)
+
 
