@@ -59,17 +59,7 @@ This project presents an integrated **in-silico analysis of the human TLR4 gene 
 | Cancer Analysis | GEPIA3 |
 
 ---
-##  Target Gene
 
-**Gene:** TLR4  
-**Full name:** Toll-like receptor 4  
-**Organism:** Homo sapiens  
-**Chromosome:** 9  
-**Gene ID:** 7099  
-**UniProt:** O00206  
-**Protein length:** 839 amino acids
-
----
 #  Analysis Results
 
 ## 1. Gene Annotation
