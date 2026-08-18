@@ -107,3 +107,24 @@ The analysis identified the coding region corresponding to the full-length TLR4 
 ![TLR4 ORF Analysis](images/TLR4_ORF_analysis.png)
 
 ---
+## 4. Physicochemical Characterization
+
+The TLR4 protein sequence was analyzed using ExPASy ProtParam to determine its fundamental physicochemical properties.
+
+The following parameters were investigated:
+
+- Molecular weight- 95,680.13 Da (95.7 kDa)
+- Theoretical isoelectric point (pI)- 5.88 (Slightly acidic)
+- Highest Amino Acid: Leucine (L) at 15.5% (130 residues)
+- Instability index- 43.05
+- Aliphatic index- 101.86
+
+- GRAVY hydropathicity score- 0.033
+
+-Total number of negatively charged residues (Asp + Glu): 83
+
+-Total number of positively charged residues (Arg + Lys): 68
+
+### Total amino acid composition
+
+
