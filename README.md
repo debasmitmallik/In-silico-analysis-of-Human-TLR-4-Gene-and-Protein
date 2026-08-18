@@ -70,3 +70,25 @@ This project presents an integrated **in-silico analysis of the human TLR4 gene 
 **Protein length:** 839 amino acids
 
 ---
+#  Analysis Results
+
+## 1. Gene Annotation
+
+Gene annotation was performed using NCBI Gene, Ensembl, and UniProtKB to determine the identity, chromosomal location, transcript information, protein information, and database cross-references of the human TLR4 gene.
+
+### Target Gene Information
+
+| Parameter | Information |
+|---|---|
+| Gene Symbol | TLR4 |
+| Full Name | Toll-like receptor 4 |
+| Organism | *Homo sapiens* |
+| Chromosome | 9 |
+| Chromosomal Locus | 9q33.1 |
+| NCBI Gene ID | 7099 |
+| RefSeq Transcript | NM_138554.5 |
+| RefSeq Protein | NP_612564.1 |
+| UniProt ID | O00206 |
+| Protein Length | 839 amino acids |
+
+---
