@@ -82,3 +82,12 @@ Gene annotation was performed using NCBI Gene, Ensembl, and UniProtKB to determi
 | Protein Length | 839 amino acids |
 
 ---
+## 2. Sequence Retrieval
+
+The human TLR4 transcript and protein sequences were retrieved from NCBI and UniProtKB in FASTA format.
+
+The retrieved sequences were subsequently used for ORF analysis, physicochemical characterization, evolutionary analysis, and structural investigation.
+### Sequence Files
+
+- [TLR4 mRNA sequence](data/TLR4_mRNA.fasta)
+- [TLR4 protein sequence](data/TLR4_protein.fasta)
