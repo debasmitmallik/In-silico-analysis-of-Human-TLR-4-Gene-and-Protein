@@ -91,6 +91,8 @@ The retrieved sequences were subsequently used for ORF analysis, physicochemical
 
 - [TLR4 mRNA sequence](data/TLR4_mRNA.fasta)
 - [TLR4 protein sequence](data/TLR4_protein.fasta)
+
+ ---
 ## 3. Open Reading Frame (ORF) Analysis
 
 The TLR4 mRNA sequence was analyzed using NCBI ORFfinder across all six possible reading frames to identify and verify the protein-coding region.
@@ -129,4 +131,5 @@ The following parameters were investigated:
 
 -[TLR4 amino acid composition](data/TLR4_amino_acid_composition.csv)
 
+---
 
