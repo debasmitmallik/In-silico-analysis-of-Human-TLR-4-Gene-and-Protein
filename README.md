@@ -91,3 +91,19 @@ The retrieved sequences were subsequently used for ORF analysis, physicochemical
 
 - [TLR4 mRNA sequence](data/TLR4_mRNA.fasta)
 - [TLR4 protein sequence](data/TLR4_protein.fasta)
+## 3. Open Reading Frame (ORF) Analysis
+
+The TLR4 mRNA sequence was analyzed using NCBI ORFfinder across all six possible reading frames to identify and verify the protein-coding region.
+
+The analysis identified the coding region corresponding to the full-length TLR4 precursor protein.
+
+### ORF Analysis Result
+
+- ORF: 4
+- Reading Frame: +1
+- Coding Sequence: approximately 2,520 bp
+- Protein Length: 839 amino acids
+
+![TLR4 ORF Analysis](images/TLR4_ORF_analysis.png)
+
+---
