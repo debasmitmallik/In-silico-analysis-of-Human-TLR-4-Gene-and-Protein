@@ -115,15 +115,15 @@ The TLR4 protein sequence was analyzed using ExPASy ProtParam to determine its f
 
 The following parameters were investigated:
 
-- Number of Amino Acids- 839
-- Molecular weight- 95,680.13 Da (95.7 kDa)
-- Theoretical isoelectric point (pI)- 5.88 (Slightly acidic)
-- Highest Amino Acid- Leucine (L) at 15.5% (130 residues)
-- Instability index- 43.05
-- Aliphatic index- 101.86
-- GRAVY hydropathicity score- 0.033
-- Total number of negatively charged residues (Asp + Glu)- 83
-- Total number of positively charged residues (Arg + Lys)- 68
+- Number of Amino Acids: 839
+- Molecular weight: 95,680.13 Da (95.7 kDa)
+- Theoretical isoelectric point (pI): 5.88 (Slightly acidic)
+- Highest Amino Acid: Leucine (L) at 15.5% (130 residues)
+- Instability index: 43.05
+- Aliphatic index: 101.86
+- GRAVY hydropathicity score: 0.033
+- Total number of negatively charged residues (Asp + Glu): 83
+- Total number of positively charged residues (Arg + Lys): 68
 
   
 
