@@ -121,11 +121,8 @@ The following parameters were investigated:
 - Highest Amino Acid- Leucine (L) at 15.5% (130 residues)
 - Instability index- 43.05
 - Aliphatic index- 101.86
-
 - GRAVY hydropathicity score- 0.033
-
 -Total number of negatively charged residues (Asp + Glu)- 83
-
 -Total number of positively charged residues (Arg + Lys)- 68
 
 ### Total amino acid composition
