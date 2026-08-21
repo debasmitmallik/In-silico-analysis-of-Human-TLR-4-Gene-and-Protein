@@ -132,4 +132,30 @@ The following parameters were investigated:
 - [TLR4 amino acid composition](data/TLR4_amino_acid_composition.csv)
 
 ---
+## 5. Multiple Sequence Alignment & Evolutionary Conservation
+
+Multiple sequence alignment (MSA) was performed to investigate the
+evolutionary conservation of the human TLR4 protein across closely
+related mammalian species. The protein sequences were retrieved from
+NCBI Protein and aligned using **Clustal Omega (EMBL-EBI)**.
+### Sequences Used
+
+| Organism | Protein | Accession |
+|---|---|---|
+| *Homo sapiens* | TLR4 | `NP_612564.1` |
+| *Mus musculus* | TLR4 | `NP_067272.1` |
+| *Rattus norvegicus* | TLR4 | `NP_062051.2` |
+
+In the Jalview alignment:
+
+- `*` indicates an identical amino acid across the aligned sequences.
+- `:` indicates a strongly conserved amino acid substitution.
+- `.` indicates a weakly conserved substitution.
+- Conserved regions may indicate evolutionary constraints associated
+  with the structural or functional properties of TLR4.
+### Files
+
+- **Input sequences:** (data/TLR4_orthologs.fa)
+- **Clustal Omega alignment:** (data/TLR4_MSA_human_mouse_rat.aln-clustal_num)
+
 
