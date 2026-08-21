@@ -107,6 +107,7 @@ The analysis identified the coding region corresponding to the full-length TLR4 
 - Protein Length: 839 amino acids
 
 ![TLR4 ORF Analysis](images/TLR4_ORF_analysis.png)
+**Figure 1:** NCBI ORFfinder analysis of human TLR4 transcript variant 1 (NM_138554.5), highlighting ORF 4 (2,520 bp / 839 aa, Frame +1) as the primary coding sequence.
 
 ---
 ## 4. Physicochemical Characterization
@@ -155,7 +156,34 @@ In the Jalview alignment:
   with the structural or functional properties of TLR4.
 ### Files
 
-- **Input sequences:** (data/TLR4_orthologs.fa)
-- **Clustal Omega alignment:** (data/TLR4_MSA_human_mouse_rat.aln-clustal_num)
+- [Input Sequences](data/TLR4_orthologs.fa)
+- [Clustal omega alignment](data/TLR4_MSA_human_mouse_rat.aln-clustal_num)
+  
+
+The resulting alignment was visualized using **Jalview** to examine
+conserved and variable amino acid positions among the three TLR4
+orthologs.
+
+### Multiple Sequence Alignment
+
+![TLR4 Multiple Sequence Alignment](images/TLR4_multiple_sequence_alignment.png)
+**Figure 2:** Multiple sequence alignment of human, mouse, and rat TLR4
+proteins. The alignment was generated using Clustal Omega and
+visualized using Jalview.
+### Interpretation
+
+The alignment demonstrates substantial conservation among human,
+mouse, and rat TLR4 sequences. Several regions contain highly conserved
+amino acid residues, suggesting evolutionary preservation of important
+structural and functional features of the receptor.
+
+The observed conservation supports the use of mammalian TLR4 orthologs
+for comparative analysis of the receptor and provides a basis for
+identifying residues or regions that may be important for TLR4
+structure and function.
+
+
+
+  
 
 
