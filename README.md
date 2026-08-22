@@ -168,8 +168,8 @@ orthologs.
 
 ![TLR4 Multiple Sequence Alignment](images/TLR4_multiple_sequence_alignment.png)
 **Figure 2:** Multiple sequence alignment of human, mouse, and rat TLR4
-proteins. The alignment was generated using Clustal Omega and
-visualized using Jalview.
+proteins, generated using Clustal Omega and visualized using Jalview
+
 ### Interpretation
 
 The alignment demonstrates substantial conservation among human,
