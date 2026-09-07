@@ -183,6 +183,19 @@ identifying residues or regions that may be important for TLR4
 structure and function.
 
 ---
+## 6. Conserved Domain Architecture Profiling
+
+Conserved domain analysis was performed using the NCBI Conserved Domain Database (CDD) and Pfam.
+
+The TLR4 protein contains the following major structural regions:
+
+- Extracellular leucine-rich repeat (LRR) region
+- Transmembrane region
+- Intracellular Toll/interleukin-1 receptor (TIR) domain
+
+The extracellular LRR region contributes to ligand recognition, while the intracellular TIR domain participates in downstream signal transduction.
+
+
 
 
 
