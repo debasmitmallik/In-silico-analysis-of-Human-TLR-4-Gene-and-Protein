@@ -221,21 +221,25 @@ DSSP was used to examine the distribution of secondary structural elements along
 - The DSSP profile provides additional structural information complementary to the three-dimensional structural analysis.
 
 ---
-## 8. Protein-Protein Interaction Network Construction
+###  Membrane Topology Analysis — DeepTMHMM
 
-STRING was used to construct a functional protein-protein interaction network around TLR4.
+Membrane topology of the human TLR4 protein was predicted using **DeepTMHMM** to identify signal peptides, transmembrane regions, and the predicted orientation of the protein relative to the membrane.
 
-Important interacting proteins include:
+The analysis classified TLR4 as **alpha-helical Signal Peptide + Transmembrane (SP+TM)**.
 
-- MYD88
-- CD14
-- LY96 (MD-2)
-- TIRAP
-- TICAM1 (TRIF)
-- IRF3
-- NFKB1
+#### Key observations
 
-These proteins represent important components of TLR4-mediated innate immune and inflammatory signaling.
+- An **N-terminal signal peptide** was predicted near the beginning of the sequence.
+- A major **transmembrane α-helical region** was predicted near the C-terminal portion of the protein.
+- The predicted topology places the majority of the TLR4 protein on the **extracellular side**, while the C-terminal region extends into the intracellular compartment.
+- The posterior probability plot showed **high prediction confidence** for the major signal peptide and transmembrane regions.
+- The predicted membrane topology is consistent with the known architecture of TLR4 as a **single-pass membrane receptor** with a large extracellular domain and a cytoplasmic TIR signaling domain.
+
+### 📊 DeepTMHMM Prediction
+
+![TLR4 DeepTMHMM Topology](figures/TLR4_DeepTMHMM.png)
+
+**Figure:** DeepTMHMM prediction of TLR4 membrane topology, showing the most likely topology and posterior probabilities for signal peptide, membrane, inside, and outside regions
 
 
 
