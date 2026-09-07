@@ -380,11 +380,11 @@ The visualization shows that the majority of the identified TLR4 variants are cl
 
 No prominent cluster of variants classified as pathogenic or likely pathogenic is observed in the displayed region. The distribution of variants across the TLR4 locus provides an overview of the currently reported genetic variation and its clinical interpretation.
 
-### Figure
+### Genomic Variant Significance of TLR4
 
 ![TLR4 Genomic Variants](images/TLR4_variants.png)
 
-**Figure 10:**  Genomic distribution and clinical significance of TLR4 variants.** Variants are mapped across the TLR4 genomic region and categorized according to their reported clinical significance.
+**Figure 10:**  Genomic distribution and clinical significance of TLR4 variants, variants are mapped across the TLR4 genomic region and categorized according to their reported clinical significance.
 
 ### Interpretation
 
