@@ -200,7 +200,24 @@ The extracellular LRR region contributes to ligand recognition, while the intrac
 
 
 ---
-## 7. Secondary Structure Analysis (DSSP)
+## 7.3D Protein Structure Visualization
+
+The three-dimensional structure of the human Toll-like receptor 4 (TLR4) protein was visualized using **PyMOL** to examine its overall structural organization and domain architecture.
+
+The structure was rendered using a **cartoon representation**, with different structural regions/chains displayed in distinct colors. The visualization highlights the complex three-dimensional arrangement of TLR4 and its characteristic extracellular and membrane-associated structural organization.
+
+### Visualization Tool
+- **Software:** PyMOL
+- **Representation:** Cartoon
+- **Target:** Human TLR4 protein
+- **Purpose:** Structural visualization and examination of the overall protein architecture
+
+### TLR4 3D Structure
+
+![3D Structure of Human TLR4](images/TLR4_3D_structure.png)
+
+**Figure 4:** Three-dimensional structural visualization of human TLR4 generated using PyMOL.
+## 8. Secondary Structure Analysis (DSSP)
 
 The secondary structure of the TLR4 protein was analyzed using **DSSP (Define Secondary Structure of Proteins)** based on its three-dimensional structure.
 
@@ -210,7 +227,7 @@ DSSP was used to examine the distribution of secondary structural elements along
 
 ![TLR4 DSSP Secondary Structure](images/TLR4_dssp.jpg)
 
-**Figure 4:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
+**Figure 5:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
 
 ###  Key Observations
 
@@ -221,7 +238,7 @@ DSSP was used to examine the distribution of secondary structural elements along
 - The DSSP profile provides additional structural information complementary to the three-dimensional structural analysis.
 
 ---
-### 8. Membrane Topology Analysis — DeepTMHMM
+### 9. Membrane Topology Analysis — DeepTMHMM
 
 Membrane topology of the human TLR4 protein was predicted using **DeepTMHMM** to identify signal peptides, transmembrane regions, and the predicted orientation of the protein relative to the membrane.
 
@@ -239,10 +256,10 @@ The analysis classified TLR4 as **alpha-helical Signal Peptide + Transmembrane (
 
 ![TLR4 DeepTMHMM Topology](images/TLR4_DeepTMHMM.png)
 
-**Figure 5:** DeepTMHMM prediction of TLR4 membrane topology, showing the most likely topology and posterior probabilities for signal peptide, membrane, inside, and outside regions
+**Figure 6:** DeepTMHMM prediction of TLR4 membrane topology, showing the most likely topology and posterior probabilities for signal peptide, membrane, inside, and outside regions
 
 ---
-## 9. Protein-Protein Interaction Network Construction
+## 10. Protein-Protein Interaction Network Construction
 
 STRING was used to construct a functional protein-protein interaction network around TLR4.
 
@@ -259,10 +276,10 @@ Important interacting proteins include:
 These proteins represent important components of TLR4-mediated innate immune and inflammatory signaling.
 
 ![TLR4 STRING Network](images/TLR4_STRING_network.png)
-**Figure 6:** STRING-based protein–protein interaction network of human TLR4 showing its functional associations with key innate immune signaling proteins, including MYD88, TIRAP, IRAK1/2/4, TRAF6, IRF7, and IKBKB
+**Figure 7:** STRING-based protein–protein interaction network of human TLR4 showing its functional associations with key innate immune signaling proteins, including MYD88, TIRAP, IRAK1/2/4, TRAF6, IRF7, and IKBKB
 
 ---
-## 10. Gene Ontology Functional Enrichment
+## 11. Gene Ontology Functional Enrichment
 
 Gene Ontology enrichment analysis was performed using STRING and g:Profiler to characterize the TLR4 interaction network.
 
@@ -289,7 +306,7 @@ The analysis was performed across the three major Gene Ontology categories:
 - Membrane-associated receptor complexes
 
 ![TLR4 GO Enrichment](images/TLR4_GO_enrichment.png)
-**Figure 7:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
+**Figure 8:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
 
 ---
 
