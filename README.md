@@ -200,6 +200,26 @@ The extracellular LRR region contributes to ligand recognition, while the intrac
 
 
 ---
+## 7. Secondary Structure Analysis (DSSP)
+
+The secondary structure of the TLR4 protein was analyzed using **DSSP (Define Secondary Structure of Proteins)** based on its three-dimensional structure.
+
+DSSP was used to examine the distribution of secondary structural elements along the protein sequence, including **α-helices, β-strands, and loop/coil regions**. The analysis also included **relative solvent accessibility (RSA)** to assess the exposure of individual residues to the solvent.
+
+### 📊 DSSP Analysis
+
+![TLR4 DSSP Secondary Structure](images/TLR4_dssp.png)
+
+**Figure 4:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
+
+### 🔎 Key Observations
+
+- TLR4 contains a mixture of **α-helical, β-strand, and loop/coil regions**.
+- The secondary structure elements are distributed throughout the protein rather than being confined to a single region.
+- RSA values vary considerably across residues, indicating differences in **solvent exposure and structural environment**.
+- Regions with higher RSA are more solvent-exposed, whereas residues with lower RSA are generally more buried within the protein structure.
+- The DSSP profile provides additional structural information complementary to the three-dimensional structural analysis.
+
 
 
 
