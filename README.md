@@ -382,7 +382,7 @@ No prominent cluster of variants classified as pathogenic or likely pathogenic i
 
 ### Figure
 
-![TLR4 Genomic Variants](../images/TLR4_variants.png)
+![TLR4 Genomic Variants](images/TLR4_variants.png)
 
 **Figure 10:**  Genomic distribution and clinical significance of TLR4 variants.** Variants are mapped across the TLR4 genomic region and categorized according to their reported clinical significance.
 
