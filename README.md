@@ -235,7 +235,7 @@ The analysis classified TLR4 as **alpha-helical Signal Peptide + Transmembrane (
 - The posterior probability plot showed **high prediction confidence** for the major signal peptide and transmembrane regions.
 - The predicted membrane topology is consistent with the known architecture of TLR4 as a **single-pass membrane receptor** with a large extracellular domain and a cytoplasmic TIR signaling domain.
 
-### 📊 DeepTMHMM Prediction
+###  DeepTMHMM Prediction
 
 ![TLR4 DeepTMHMM Topology](figures/TLR4_DeepTMHMM.png)
 
