@@ -208,7 +208,7 @@ DSSP was used to examine the distribution of secondary structural elements along
 
 ### DSSP Analysis
 
-![TLR4 DSSP Secondary Structure](images/TLR4_dssp.png)
+![TLR4 DSSP Secondary Structure](images/TLR4_dssp.jpg)
 
 **Figure 4:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
 
