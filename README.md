@@ -255,6 +255,7 @@ The analysis classified TLR4 as **alpha-helical Signal Peptide + Transmembrane (
 ###  DeepTMHMM Prediction
 
 ![TLR4 DeepTMHMM Topology](images/TLR4_DeepTMHMM.png)
+
 **Figure 6:** DeepTMHMM prediction of TLR4 membrane topology, showing the most likely topology and posterior probabilities for signal peptide, membrane, inside, and outside regions
 
 ---
