@@ -351,7 +351,46 @@ The enriched KEGG pathways are shown below. The **x-axis represents fold enrichm
 
 ![KEGG Pathway Enrichment Analysis](images/TLR4_pathway_enrichment.png)
 
-**Figure 9. KEGG pathway enrichment analysis of TLR4-associated genes.** The bar length represents fold enrichment, while the colour intensity indicates statistical significance based on `-log10(FDR)`
+**Figure 9:**  KEGG pathway enrichment analysis of TLR4-associated genes.** The bar length represents fold enrichment, while the colour intensity indicates statistical significance based on `-log10(FDR)`
+
+---
+## 13. Genomic Variation and Clinical Significance
+
+### Overview
+
+Genomic variation within the **TLR4** locus was examined to identify reported variants and their associated clinical significance. Variant positions were visualized across the genomic region, allowing the distribution of reported variants to be assessed in relation to the TLR4 gene.
+
+### Analysis
+
+The variant dataset was analyzed based on the available clinical significance annotations. Variants were categorized into different clinical interpretation classes, including:
+
+- Pathogenic
+- Likely pathogenic
+- Uncertain significance (VUS)
+- Likely benign
+- Benign
+- Conflicting interpretations
+- Other / not provided
+
+The genomic coordinates along the x-axis represent the chromosomal position of the variants, while the vertical position of each variant corresponds to its clinical significance category.
+
+### Results
+
+The visualization shows that the majority of the identified TLR4 variants are classified as **uncertain significance, likely benign, or benign**. Several variants have conflicting interpretations, highlighting differences in clinical assessment among available records.
+
+No prominent cluster of variants classified as pathogenic or likely pathogenic is observed in the displayed region. The distribution of variants across the TLR4 locus provides an overview of the currently reported genetic variation and its clinical interpretation.
+
+### Figure
+
+![TLR4 Genomic Variants](../images/TLR4_variants.png)
+
+**Figure 10:**  Genomic distribution and clinical significance of TLR4 variants.** Variants are mapped across the TLR4 genomic region and categorized according to their reported clinical significance.
+
+### Interpretation
+
+The predominance of variants with uncertain or benign interpretations suggests that a substantial proportion of reported TLR4 variation does not currently have established pathogenic significance. Variants classified as **uncertain significance (VUS)** should not be interpreted as disease-causing without additional experimental, population, or clinical evidence.
+
+Overall, this analysis provides a genomic-level overview of reported TLR4 variation and can help identify variants that may warrant further investigation.
 
 
 
