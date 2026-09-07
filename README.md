@@ -107,7 +107,7 @@ The analysis identified the coding region corresponding to the full-length TLR4 
 - Protein Length: 839 amino acids
 
 ![TLR4 ORF Analysis](images/TLR4_ORF_analysis.png)
-**Figure 1:** NCBI ORFfinder analysis of human TLR4 transcript variant 1 (NM_138554.5), highlighting ORF 4 (2,520 bp / 839 aa, Frame +1) as the primary coding sequence.
+**Figure 1:** NCBI ORFfinder analysis of human TLR4 transcript variant 1 (NM_138554.5), highlighting ORF 4 (2,520 bp / 839 aa, Frame +1) as the primary coding sequence
 
 ---
 ## 4. Physicochemical Characterization
@@ -194,6 +194,13 @@ The TLR4 protein contains the following major structural regions:
 - Intracellular Toll/interleukin-1 receptor (TIR) domain
 
 The extracellular LRR region contributes to ligand recognition, while the intracellular TIR domain participates in downstream signal transduction.
+
+![TLR4 Domain Architecture](images/TLR4_domain_architecture.png)
+**Figure 3:** Conserved domain architecture of human TLR4 showing LRR and intracellular TIR domains
+
+
+---
+
 
 
 
