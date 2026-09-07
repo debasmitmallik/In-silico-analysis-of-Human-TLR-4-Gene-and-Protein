@@ -322,9 +322,9 @@ The analysis focused on TLR4-associated signaling pathways, including:
 - Cytokine and inflammatory signaling
 
 The enriched pathways were visualized using enrichment plots representing fold enrichment and statistical significance.
-**Figure 9:** KEGG Pathway Enrichment Analysis of TLR4-associated genes, Bar plot showing significantly enriched pathways, with bar length representing fold enrichment and color indicating statistical significance as −log10(FDR)
 
 ![TLR4 Pathway Enrichment](images/TLR4_pathway_enrichment.png)
+**Figure 9:** KEGG Pathway Enrichment Analysis of TLR4-associated genes, Bar plot showing significantly enriched pathways, with bar length representing fold enrichment and color indicating statistical significance as −log10(FDR)
 
 ---
 
