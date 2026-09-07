@@ -215,7 +215,6 @@ The structure was rendered using a **cartoon representation**, with different st
 ### TLR4 3D Structure
 
 ![3D Structure of Human TLR4](images/TLR4_3D_structure.png)
-
 **Figure 4:** Three-dimensional structural visualization of human TLR4 generated using PyMOL.
 
 ---
@@ -228,7 +227,6 @@ DSSP was used to examine the distribution of secondary structural elements along
 ### DSSP Analysis
 
 ![TLR4 DSSP Secondary Structure](images/TLR4_dssp.jpg)
-
 **Figure 5:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
 
 ###  Key Observations
@@ -257,7 +255,6 @@ The analysis classified TLR4 as **alpha-helical Signal Peptide + Transmembrane (
 ###  DeepTMHMM Prediction
 
 ![TLR4 DeepTMHMM Topology](images/TLR4_DeepTMHMM.png)
-
 **Figure 6:** DeepTMHMM prediction of TLR4 membrane topology, showing the most likely topology and posterior probabilities for signal peptide, membrane, inside, and outside regions
 
 ---
@@ -278,7 +275,6 @@ Important interacting proteins include:
 These proteins represent important components of TLR4-mediated innate immune and inflammatory signaling.
 
 ![TLR4 STRING Network](images/TLR4_STRING_network.png)
-
 **Figure 7:** STRING-based protein–protein interaction network of human TLR4 showing its functional associations with key innate immune signaling proteins, including MYD88, TIRAP, IRAK1/2/4, TRAF6, IRF7, and IKBKB
 
 ---
@@ -309,7 +305,6 @@ The analysis was performed across the three major Gene Ontology categories:
 - Membrane-associated receptor complexes
 
 ![TLR4 GO Enrichment](images/TLR4_GO_enrichment.png)
-
 **Figure 8:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
 
 ---
