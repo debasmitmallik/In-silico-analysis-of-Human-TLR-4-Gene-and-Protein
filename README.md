@@ -351,7 +351,7 @@ The enriched KEGG pathways are shown below. The **x-axis represents fold enrichm
 
 ![KEGG Pathway Enrichment Analysis](images/TLR4_pathway_enrichment.png)
 
-**Figure 9. KEGG pathway enrichment analysis of TLR4-associated genes.** The bar length represents fold enrichment, while the colour intensity indicates statistical significance based on `-log10(FDR)`.
+**Figure 9. KEGG pathway enrichment analysis of TLR4-associated genes.** The bar length represents fold enrichment, while the colour intensity indicates statistical significance based on `-log10(FDR)`
 
 
 
