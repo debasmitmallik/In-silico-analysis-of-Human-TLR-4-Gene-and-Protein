@@ -261,6 +261,37 @@ These proteins represent important components of TLR4-mediated innate immune and
 ![TLR4 STRING Network](images/TLR4_STRING_network.png)
 **Figure 6:** STRING-based protein–protein interaction network of human TLR4 showing its functional associations with key innate immune signaling proteins, including MYD88, TIRAP, IRAK1/2/4, TRAF6, IRF7, and IKBKB
 
+---
+## 10. Gene Ontology Functional Enrichment
+
+Gene Ontology enrichment analysis was performed using STRING and g:Profiler to characterize the TLR4 interaction network.
+
+The analysis was performed across the three major Gene Ontology categories:
+
+### Biological Process
+
+- Response to lipopolysaccharide
+- Innate immune response
+- Inflammatory signaling
+- Regulation of immune response
+
+### Molecular Function
+
+- Pattern recognition receptor activity
+- Receptor activity
+- Protein binding
+- Signaling-related molecular functions
+
+### Cellular Component
+
+- Plasma membrane
+- Cell surface
+- Membrane-associated receptor complexes
+
+![TLR4 GO Enrichment](images/TLR4_GO_enrichment.png)
+**Figure 7:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
+
+---
 
 
 
