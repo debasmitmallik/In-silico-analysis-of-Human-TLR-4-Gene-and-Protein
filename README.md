@@ -206,7 +206,7 @@ The secondary structure of the TLR4 protein was analyzed using **DSSP (Define Se
 
 DSSP was used to examine the distribution of secondary structural elements along the protein sequence, including **α-helices, β-strands, and loop/coil regions**. The analysis also included **relative solvent accessibility (RSA)** to assess the exposure of individual residues to the solvent.
 
-### 📊 DSSP Analysis
+### DSSP Analysis
 
 ![TLR4 DSSP Secondary Structure](images/TLR4_dssp.png)
 
