@@ -212,13 +212,32 @@ DSSP was used to examine the distribution of secondary structural elements along
 
 **Figure 4:** DSSP-based analysis of TLR4 showing residue-wise relative solvent accessibility (RSA) and secondary structural assignments
 
-### 🔎 Key Observations
+###  Key Observations
 
 - TLR4 contains a mixture of **α-helical, β-strand, and loop/coil regions**.
 - The secondary structure elements are distributed throughout the protein rather than being confined to a single region.
 - RSA values vary considerably across residues, indicating differences in **solvent exposure and structural environment**.
 - Regions with higher RSA are more solvent-exposed, whereas residues with lower RSA are generally more buried within the protein structure.
 - The DSSP profile provides additional structural information complementary to the three-dimensional structural analysis.
+
+---
+## 8. Protein-Protein Interaction Network Construction
+
+STRING was used to construct a functional protein-protein interaction network around TLR4.
+
+Important interacting proteins include:
+
+- MYD88
+- CD14
+- LY96 (MD-2)
+- TIRAP
+- TICAM1 (TRIF)
+- IRF3
+- NFKB1
+
+These proteins represent important components of TLR4-mediated innate immune and inflammatory signaling.
+
+
 
 
 
