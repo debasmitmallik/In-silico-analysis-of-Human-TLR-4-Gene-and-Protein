@@ -278,6 +278,7 @@ Important interacting proteins include:
 These proteins represent important components of TLR4-mediated innate immune and inflammatory signaling.
 
 ![TLR4 STRING Network](images/TLR4_STRING_network.png)
+
 **Figure 7:** STRING-based protein–protein interaction network of human TLR4 showing its functional associations with key innate immune signaling proteins, including MYD88, TIRAP, IRAK1/2/4, TRAF6, IRF7, and IKBKB
 
 ---
@@ -308,6 +309,7 @@ The analysis was performed across the three major Gene Ontology categories:
 - Membrane-associated receptor complexes
 
 ![TLR4 GO Enrichment](images/TLR4_GO_enrichment.png)
+
 **Figure 8:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
 
 ---
