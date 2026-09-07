@@ -200,7 +200,7 @@ The extracellular LRR region contributes to ligand recognition, while the intrac
 
 
 ---
-## 7.3D Protein Structure Visualization
+## 7. 3D Protein Structure Visualization
 
 The three-dimensional structure of the human Toll-like receptor 4 (TLR4) protein was visualized using **PyMOL** to examine its overall structural organization and domain architecture.
 
@@ -217,6 +217,8 @@ The structure was rendered using a **cartoon representation**, with different st
 ![3D Structure of Human TLR4](images/TLR4_3D_structure.png)
 
 **Figure 4:** Three-dimensional structural visualization of human TLR4 generated using PyMOL.
+
+---
 ## 8. Secondary Structure Analysis (DSSP)
 
 The secondary structure of the TLR4 protein was analyzed using **DSSP (Define Secondary Structure of Proteins)** based on its three-dimensional structure.
