@@ -309,25 +309,49 @@ The analysis was performed across the three major Gene Ontology categories:
 **Figure 8:** Gene Ontology enrichment analysis of the TLR4-associated protein network, showing enriched functional categories based on statistical significance and gene count
 
 ---
-## 12. Pathway Enrichment & Visualization
+## 12. KEGG Pathway Enrichment Analysis
 
-Pathway enrichment analysis was performed using Reactome, KEGG, and ShinyGO.
+KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway enrichment analysis was performed to identify biological pathways that are significantly associated with the TLR4-related gene set. The analysis provides a functional overview of the signaling and disease pathways in which the selected genes are involved.
 
-The analysis focused on TLR4-associated signaling pathways, including:
+The enriched pathways were evaluated based on their **fold enrichment** and statistical significance. The resulting pathways were visualized using a horizontal bar plot, where the bar length represents the fold enrichment and the colour gradient represents the statistical significance as `-log10(FDR)`.
 
-- MyD88-dependent TLR4 signaling
-- TRIF-dependent TLR4 signaling
-- Toll-like receptor signaling
-- NF-κB signaling
-- Cytokine and inflammatory signaling
+### Key Enriched Pathways
 
-The enriched pathways were visualized using enrichment plots representing fold enrichment and statistical significance.
+Several immune- and inflammation-associated pathways were identified among the significantly enriched pathways, including:
 
-![TLR4 Pathway Enrichment](images/TLR4_pathway_enrichment.png)
+- **Pertussis**
+- **Toll-like receptor signaling pathway**
+- **Legionellosis**
+- **NF-kappa B signaling pathway**
+- **Alcoholic liver disease**
+- **PD-L1 expression and PD-1 checkpoint pathway in cancer**
+- **Chagas disease**
+- **Lipid and atherosclerosis**
+- **Hepatitis B**
+- **Yersinia infection**
+- **Influenza A**
+- **Tuberculosis**
+- **NOD-like receptor signaling pathway**
+- **Salmonella infection**
+- **Shigellosis**
 
-**Figure 9:** KEGG Pathway Enrichment Analysis of TLR4-associated genes, Bar plot showing significantly enriched pathways, with bar length representing fold enrichment and color indicating statistical significance as −log10(FDR)
+The **Toll-like receptor signaling pathway** and **NF-kappa B signaling pathway** are particularly relevant to TLR4 because TLR4 is a key pattern-recognition receptor involved in innate immune signaling and activation of inflammatory transcriptional responses.
 
----
+### Interpretation
+
+The enrichment of immune-related and pathogen-associated pathways highlights the central role of TLR4 in **innate immune recognition, inflammatory signaling, and host–pathogen interactions**. The association with the NF-kappa B pathway further supports the importance of TLR4-mediated downstream signaling in inflammatory and immune responses.
+
+Pathways related to infectious diseases, including pertussis, legionellosis, tuberculosis, salmonella infection, and shigellosis, reflect the involvement of TLR4-associated signaling components in the host response to microbial pathogens.
+
+The enrichment of the **PD-L1 expression and PD-1 checkpoint pathway in cancer** also indicates a potential connection between TLR4-mediated immune signaling and the regulation of tumor-associated immune responses.
+
+### Visualization
+
+The enriched KEGG pathways are shown below. The **x-axis represents fold enrichment**, while the colour gradient represents statistical significance measured as **`-log10(FDR)`**.
+
+![KEGG Pathway Enrichment Analysis](images/TLR4_pathway_enrichment.png)
+
+**Figure 9. KEGG pathway enrichment analysis of TLR4-associated genes.** The bar length represents fold enrichment, while the colour intensity indicates statistical significance based on `-log10(FDR)`.
 
 
 
