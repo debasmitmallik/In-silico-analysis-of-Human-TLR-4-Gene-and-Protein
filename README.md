@@ -403,6 +403,32 @@ Pan-cancer expression profiling of Toll-like Receptor 4 (TLR4) was performed usi
 
 **Figure 11:**  Pan-cancer expression analysis of TLR4 comparing tumor and normal tissue samples across multiple cancer types using GEPIA.
 
+### Kaplan–Meier Survival Analysis
+
+To investigate the potential prognostic relevance of TLR4 expression, individual Kaplan–Meier survival analyses were performed for cancer types showing a statistically significant association with TLR4 expression.
+
+Five cancer types exhibited statistically significant survival differences ((p < 0.05)) between the high- and low-TLR4-expression groups:
+
+| Cancer Type | Abbreviation | p |
+|---|---|---|
+| Kidney Renal Clear Cell Carcinoma | KIRC | 4.52e-05 |
+| Acute Myeloid Leukemia | LAML | 0.0183 |
+| Lung Adenocarcinoma | LUAD | 0.00449 |
+| Thymoma | THYM | 0.0332 |
+| Testicular Germ Cell Tumors | TGCT | 0.0217 |
+
+The Kaplan–Meier curves compare overall survival between the high- and low-TLR4-expression groups. The observed separation between curves indicates that TLR4 expression may be associated with differences in survival outcomes in these cancer types.
+
+### 1. KIRC
+
+
+
+
+
+
+
+
+
 
 
 
