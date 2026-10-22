@@ -468,6 +468,7 @@ These findings are exploratory and require validation using independent cohorts 
 
 This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—in which TLR4 expression was significantly associated with overall survival at the (p < 0.05) threshold. These results provide a starting point for investigating the context-dependent prognostic relevance of TLR4 across human cancers. These associations do not independently establish TLR4 as a prognostic biomarker or demonstrate a causal role in cancer progression.
 
+---
 ## Repository Structure
 
 ```
@@ -496,12 +497,123 @@ In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
     ├── TLR4_pathway_enrichment.png            # KEGG pathway enrichment (Fig. 9)
     ├── TLR4_variants.png                      # ClinVar variant distribution (Fig. 10)
     ├── TLR4_pan_cancer_plot.png               # GEPIA pan-cancer expression (Fig. 11)
-    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma
-    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia
-    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma
-    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma
-    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors
+    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma (Fig. 12)
+    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia (Fig. 13)
+    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma (Fig. 14)
+    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma (Fig. 15)
+    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors (Fig. 16)
 ```
+
+## Supporting Files
+
+The repository contains supporting data and analysis files generated during the project, including:
+
+- TLR4 gene annotation information
+- TLR4 mRNA sequence
+- TLR4 protein sequence
+- Orthologous protein sequences
+- ORF analysis results
+- ProtParam physicochemical analysis
+- Multiple sequence alignment
+- Conserved domain analysis
+- TLR4 structural visualization
+- STRING interaction network
+- Gene Ontology enrichment results
+- Pathway enrichment results
+- Genetic variation analysis
+- Disease association analysis
+- GEPIA3 survival analysis
+
+---
+## Key Findings
+
+- TLR4 encodes an 839-amino-acid innate immune receptor.
+- The protein contains extracellular leucine-rich repeat (LRR) regions, a transmembrane region, and an intracellular TIR signaling domain.
+- Comparative sequence analysis identified conserved regions among mammalian TLR4 orthologs.
+- Structural analysis demonstrated the organization of the human TLR4-MD-2-LPS complex.
+- STRING analysis identified major functional interaction partners involved in TLR4 signaling.
+- Gene Ontology enrichment highlighted innate immune, lipopolysaccharide-response, receptor, and membrane-associated functions.
+- Pathway analysis identified major MyD88-dependent and TRIF-dependent TLR4 signaling pathways.
+- Clinically annotated TLR4 variants were investigated, including rs4986790 (p.Asp299Gly).
+- GEPIA3 analysis identified a significant association between TLR4 expression and overall survival in KIRC.
+
+---
+## Future Scope
+
+Potential future extensions of this project include:
+
+- Comparative genomics of TLR4 across diverse species
+- Molecular docking of TLR4 with potential ligands
+- Molecular dynamics simulations
+- Structural analysis of TLR4 variants
+- Mutation impact prediction
+- Protein-ligand interaction analysis
+- RNA-seq and transcriptomic integration
+- Machine-learning-based variant prediction
+- Immunoinformatics analysis
+- Vaccine-target analysis
+- Drug-target interaction analysis
+
+---
+#  Project Summary
+
+A detailed project summary describing the methodology, tools, databases, results, and biological interpretation can be provided in:
+
+    
+
+---
+##  References & Data Sources
+
+All databases and tools were accessed in [October 2026].
+
+| Analysis | Resource | Link |
+|----------|----------|------|
+| Gene annotation | NCBI Gene | https://www.ncbi.nlm.nih.gov/gene/ |
+| Gene annotation | Ensembl | https://www.ensembl.org |
+| Sequences, annotation | UniProtKB | https://www.uniprot.org |
+| ORF analysis | NCBI ORFfinder | https://www.ncbi.nlm.nih.gov/orffinder/ |
+| Physicochemical analysis | ExPASy ProtParam | https://web.expasy.org/protparam/ |
+| Alignment | Clustal Omega (EMBL-EBI) | https://www.ebi.ac.uk/jdispatcher/msa/clustalo |
+| Alignment visualization | Jalview | https://www.jalview.org |
+| Domains | NCBI CDD, Pfam | https://www.ncbi.nlm.nih.gov/cdd/ |
+| Structure | RCSB PDB | https://www.rcsb.org |
+| Structure visualization | PyMOL | https://pymol.org |
+| Membrane topology | DeepTMHMM | https://dtu.biolib.com/DeepTMHMM |
+| Interaction network | STRING | https://string-db.org |
+| Enrichment | g:Profiler, ShinyGO | https://biit.cs.ut.ee/gprofiler/ |
+| Pathways | KEGG, Reactome | https://www.kegg.jp / https://reactome.org |
+| Variants | ClinVar, OMIM | https://www.ncbi.nlm.nih.gov/clinvar/ |
+| Cancer analysis | GEPIA3 | (link from the GEPIA3 site) |
+
+### Publications
+
+1. Sievers F, et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. *Mol Syst Biol.* 2011.
+2. Waterhouse AM, et al. Jalview Version 2, a multiple sequence alignment editor and analysis workbench. *Bioinformatics.* 2009.
+3. Kabsch W, Sander C. Dictionary of protein secondary structure (DSSP). *Biopolymers.* 1983.
+4. Gasteiger E, et al. Protein Identification and Analysis Tools on the ExPASy Server. In: *The Proteomics Protocols Handbook.* Humana Press; 2005.
+5. Szklarczyk D, et al. The STRING database (latest release). *Nucleic Acids Res.*
+6. Landrum MJ, et al. ClinVar. *Nucleic Acids Res.*
+
+---
+#  Author
+
+**Debasmit Mallik**
+
+B.Sc. Biotechnology
+St. Xavier's College, Burdwan
+
+---
+# 📜 License
+
+This project is intended for academic and educational purposes and uses publicly available biological databases and computational tools.
+This project is licensed under the MIT License.
+
+---
+
+
+
+
+
 
 
 
