@@ -1,4 +1,4 @@
-## 📚 References & Data Sources
+## References & Data Sources
 
 All databases and tools were accessed in [Month Year].
 
