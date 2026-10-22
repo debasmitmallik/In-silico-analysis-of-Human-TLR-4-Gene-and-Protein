@@ -1,7 +1,5 @@
 ## References & Data Sources
 
-All databases and tools were accessed in [Month Year].
-
 | Analysis | Resource | Link |
 |----------|----------|------|
 | Gene annotation | NCBI Gene | https://www.ncbi.nlm.nih.gov/gene/ |
