@@ -425,6 +425,58 @@ The Kaplan–Meier curves compare overall survival between the high- and low-TLR
 
 **Figure 12:**  Kaplan–Meier overall survival analysis of TLR4 expression in KIRC, comparing high and low-expression groups (p = 4.52e-05).
 
+### 2. LAML
+
+![LAML](images/LAML.jpg)
+
+**Figure 13:**  Kaplan–Meier overall survival analysis of TLR4 expression in LAML, comparing high and low-expression groups (p = 0.0183).
+
+### 3. LUAD
+
+![LUAD](images/LUAD.jpg)
+
+**Figure 14:**  Kaplan–Meier overall survival analysis of TLR4 expression in LUAD, comparing high and low-expression groups (p = 0.00449).
+
+### 4. THYM
+
+![THYM](images/THYM.jpg)
+
+**Figure 15:**  Kaplan–Meier overall survival analysis of TLR4 expression in THYM, comparing high and low-expression groups (p = 0.0332).
+
+### 5. TGCT
+
+![TGCT](images/TGCT.jpg)
+
+**Figure 16:**  Kaplan–Meier overall survival analysis of TLR4 expression in TGCT, comparing high and low-expression groups (p = 0.0217 ).
+
+### Interpretation
+
+The results suggest that the relationship between TLR4 expression and patient survival may be cancer-type dependent. The five significant associations identify potential directions for further investigation into the role of TLR4 in tumor biology and its possible prognostic relevance.
+However, statistical significance alone does not establish whether high TLR4 expression is favorable or unfavorable across all five cancers. The direction and magnitude of each association should be interpreted from the corresponding survival curves, hazard ratios, and statistical results.
+
+### Methodology
+
+- Expression profiling: GEPIA pan-cancer expression analysis.
+- Survival analysis: Kaplan–Meier analysis comparing high- and low-TLR4-expression groups.
+- Significance threshold: (p < 0.05).
+- Outcome assessed: Overall survival.
+- Scope: Exploratory, cancer-specific assessment of the association between TLR4 expression and survival.
+
+These findings are exploratory and require validation using independent cohorts and multivariable survival models accounting for relevant clinical and demographic variables.
+
+### Conclusion
+
+This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—in which TLR4 expression was significantly associated with overall survival at the (p < 0.05) threshold. These results provide a starting point for investigating the context-dependent prognostic relevance of TLR4 across human cancers.These associations do not independently establish TLR4 as a prognostic biomarker or demonstrate a causal role in cancer progression.
+
+
+
+
+
+
+
+
+
+
 
 
 
