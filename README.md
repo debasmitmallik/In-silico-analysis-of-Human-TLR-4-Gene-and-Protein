@@ -583,7 +583,7 @@ All databases and tools were accessed in [October 2026].
 | Enrichment | g:Profiler, ShinyGO | https://biit.cs.ut.ee/gprofiler/ |
 | Pathways | KEGG, Reactome | https://www.kegg.jp / https://reactome.org |
 | Variants | ClinVar, OMIM | https://www.ncbi.nlm.nih.gov/clinvar/ |
-| Cancer analysis | GEPIA3 | (link from the GEPIA3 site) |
+| Cancer analysis | GEPIA3 | https://gepia3.bioinfoliu.com/ |
 
 ### Publications
 
