@@ -468,6 +468,41 @@ These findings are exploratory and require validation using independent cohorts 
 
 This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—in which TLR4 expression was significantly associated with overall survival at the (p < 0.05) threshold. These results provide a starting point for investigating the context-dependent prognostic relevance of TLR4 across human cancers. These associations do not independently establish TLR4 as a prognostic biomarker or demonstrate a causal role in cancer progression.
 
+## Repository Structure
+
+```
+In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
+│
+├── README.md                                  # Project overview, workflow, and results
+├── LICENSE                                    # MIT license
+│
+├── data/                                      # Input sequences and analysis outputs
+│   ├── TLR4_mRNA.fasta                        # TLR4 transcript sequence (NM_138554.5)
+│   ├── TLR4_protein.fasta                     # TLR4 protein sequence (NP_612564.1)
+│   ├── TLR4_amino_acid_composition.csv        # ProtParam amino acid composition
+│   ├── TLR4_orthologs.fa                      # Human, mouse, and rat TLR4 input sequences
+│   └── TLR4_MSA_human_mouse_rat.aln-clustal_num   # Clustal Omega alignment
+│
+└── images/                                    # Figures used in the README
+    ├── TLR4_project_banner.png                # Project banner
+    ├── TLR4_ORF_analysis.png                  # ORFfinder result (Fig. 1)
+    ├── TLR4_multiple_sequence_alignment.png   # Jalview MSA (Fig. 2)
+    ├── TLR4_domain_architecture.png           # LRR and TIR domains (Fig. 3)
+    ├── TLR4_3D_structure.png                  # PyMOL structure (Fig. 4)
+    ├── TLR4_dssp.jpg                          # DSSP secondary structure and RSA (Fig. 5)
+    ├── TLR4_DeepTMHMM.png                     # Membrane topology (Fig. 6)
+    ├── TLR4_STRING_network.png                # Protein interaction network (Fig. 7)
+    ├── TLR4_GO_enrichment.png                 # GO enrichment (Fig. 8)
+    ├── TLR4_pathway_enrichment.png            # KEGG pathway enrichment (Fig. 9)
+    ├── TLR4_variants.png                      # ClinVar variant distribution (Fig. 10)
+    ├── TLR4_pan_cancer_plot.png               # GEPIA pan-cancer expression (Fig. 11)
+    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma
+    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia
+    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma
+    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma
+    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors
+```
+
 
 
 
