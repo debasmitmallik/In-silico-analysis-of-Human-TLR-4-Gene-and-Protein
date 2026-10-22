@@ -399,7 +399,7 @@ Overall, this analysis provides a genomic-level overview of reported TLR4 variat
 
 Pan-cancer expression profiling of Toll-like Receptor 4 (TLR4) was performed using GEPIA 3 to investigate its expression patterns across multiple cancer types by comparing tumor and normal tissue samples. This analysis provides an overview of TLR4 expression variability across cancers and helps identify potential cancer-specific associations.
 
-![TLR4 pan cancer plot](images/TLR4_pan_cancer_plot.png)
+![TLR4 pan cancer plot](images/TLR4pancancerplot.png)
 
 **Figure 11:**  Pan-cancer expression analysis of TLR4 comparing tumor and normal tissue samples across multiple cancer types using GEPIA.
 
