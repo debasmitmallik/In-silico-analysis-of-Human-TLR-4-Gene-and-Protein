@@ -41,7 +41,7 @@ This project presents an integrated **in-silico analysis of the human TLR4 gene 
 12. Pan-Cancer Survival & Biomarker Profiling
 
 ---
-##  Tools & Databases
+##  Tools & Databases Used
 
 | Analysis | Tool / Database |
 |---|---|
@@ -471,11 +471,17 @@ This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—
 ---
 # Repository Structure
 
+## 📁 Repository Structure
+
 ```
 In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
 │
 ├── README.md                                  # Project overview, workflow, and results
 ├── LICENSE                                    # MIT license
+│
+├── Docs/                                      # Supporting documentation
+│   ├── Project_Summary.md                     # Concise summary of the project
+│   └── References.md                          # Databases, tools, and publications cited
 │
 ├── data/                                      # Input sequences and analysis outputs
 │   ├── TLR4_mRNA.fasta                        # TLR4 transcript sequence (NM_138554.5)
@@ -497,11 +503,11 @@ In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
     ├── TLR4_pathway_enrichment.png            # KEGG pathway enrichment (Fig. 9)
     ├── TLR4_variants.png                      # ClinVar variant distribution (Fig. 10)
     ├── TLR4_pan_cancer_plot.png               # GEPIA pan-cancer expression (Fig. 11)
-    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma (Fig. 12)
-    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia (Fig. 13)
-    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma (Fig. 14)
-    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma (Fig. 15)
-    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors (Fig. 16)
+    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma
+    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia
+    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma
+    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma
+    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors
 ```
 
 # Supporting Files
