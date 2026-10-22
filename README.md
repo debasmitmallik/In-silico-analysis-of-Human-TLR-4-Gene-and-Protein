@@ -559,7 +559,7 @@ Potential future extensions of this project include:
 
 A detailed project summary describing the methodology, tools, databases, results, and biological interpretation is provided in:
 
-   Docs/Project_summary.md 
+ [Project_summary](Docs/Project_summary.md)
 
 ---
 ##  References & Data Sources
