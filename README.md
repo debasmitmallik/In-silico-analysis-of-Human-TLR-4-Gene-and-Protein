@@ -471,7 +471,7 @@ This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—
 ---
 # Repository Structure
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
