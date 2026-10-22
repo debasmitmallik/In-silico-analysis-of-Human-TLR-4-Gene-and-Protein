@@ -599,8 +599,7 @@ All databases and tools were accessed in [October 2026].
 
 **Debasmit Mallik**
 
-B.Sc. Biotechnology
-
+B.Sc. Biotechnology  
 St. Xavier's College, Burdwan
 
 ---
@@ -610,7 +609,7 @@ This project is intended for academic and educational purposes and uses publicly
 This project is licensed under the **MIT License**.
 
 
----
+
 
 
 
