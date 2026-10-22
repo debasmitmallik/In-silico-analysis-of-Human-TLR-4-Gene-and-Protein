@@ -562,7 +562,7 @@ A detailed [Project Summary](Docs/Project_Summary.md) is provided, describing th
  ---
 ##  References & Data Sources
 
-See [Reference](Docs/Reference.md) for the databases, tools, and scientific literature used in this analysis.
+See [References](Docs/References.md) for the databases, tools, and scientific literature used in this analysis.
 
 ---
 #  Author
