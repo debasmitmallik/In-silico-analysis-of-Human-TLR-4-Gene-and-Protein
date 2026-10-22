@@ -603,10 +603,10 @@ B.Sc. Biotechnology
 St. Xavier's College, Burdwan
 
 ---
-# 📜 License
+# License
 
 This project is intended for academic and educational purposes and uses publicly available biological databases and computational tools.
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
