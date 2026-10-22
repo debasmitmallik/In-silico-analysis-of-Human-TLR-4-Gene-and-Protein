@@ -392,6 +392,18 @@ The predominance of variants with uncertain or benign interpretations suggests t
 
 Overall, this analysis provides a genomic-level overview of reported TLR4 variation and can help identify variants that may warrant further investigation.
 
+---
+## 14. Pan-Cancer Analysis and Kaplan–Meier Survival Analysis
+
+### Pan-Cancer Expression Analysis
+
+Pan-cancer expression profiling of Toll-like Receptor 4 (TLR4) was performed using GEPIA 3 to investigate its expression patterns across multiple cancer types by comparing tumor and normal tissue samples. This analysis provides an overview of TLR4 expression variability across cancers and helps identify potential cancer-specific associations.
+
+
+
+
+
+
 
 
 
