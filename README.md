@@ -469,7 +469,7 @@ These findings are exploratory and require validation using independent cohorts 
 This analysis identifies five cancer types—KIRC, LAML, LUAD, THYM, and TGCT—in which TLR4 expression was significantly associated with overall survival at the (p < 0.05) threshold. These results provide a starting point for investigating the context-dependent prognostic relevance of TLR4 across human cancers. These associations do not independently establish TLR4 as a prognostic biomarker or demonstrate a causal role in cancer progression.
 
 ---
-## Repository Structure
+# Repository Structure
 
 ```
 In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
@@ -504,7 +504,7 @@ In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
     └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors (Fig. 16)
 ```
 
-## Supporting Files
+# Supporting Files
 
 The repository contains supporting data and analysis files generated during the project, including:
 
@@ -525,7 +525,7 @@ The repository contains supporting data and analysis files generated during the 
 - GEPIA3 survival analysis
 
 ---
-## Key Findings
+# Key Findings
 
 - TLR4 encodes an 839-amino-acid innate immune receptor.
 - The protein contains extracellular leucine-rich repeat (LRR) regions, a transmembrane region, and an intracellular TIR signaling domain.
@@ -538,7 +538,7 @@ The repository contains supporting data and analysis files generated during the 
 - GEPIA3 analysis identified a significant association between TLR4 expression and overall survival in KIRC.
 
 ---
-## Future Scope
+# Future Scope
 
 Potential future extensions of this project include:
 
@@ -555,17 +555,17 @@ Potential future extensions of this project include:
 - Drug-target interaction analysis
 
 ---
-#  Project Summary
+# Project Summary
 
 A detailed [Project Summary](Docs/Project_Summary.md) is provided, describing the methodology, tools, databases, results, and biological interpretation of this project.
 
  ---
-##  References & Data Sources
+# References & Data Sources
 
 See [References](Docs/References.md) for the databases, tools, and scientific literature used in this analysis.
 
 ---
-#  Author
+# Author
 
 **Debasmit Mallik**
 
