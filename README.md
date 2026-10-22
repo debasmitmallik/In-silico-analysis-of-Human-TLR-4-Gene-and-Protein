@@ -417,7 +417,7 @@ Five cancer types exhibited statistically significant survival differences (p < 
 | Thymoma | THYM | 0.0332 |
 | Testicular Germ Cell Tumors | TGCT | 0.0217 |
 
-The Kaplan–Meier curves compare overall survival between the high- and low-TLR4-expression groups. The observed separation between curves indicates that TLR4 expression may be associated with differences in survival outcomes in these cancer types:
+The Kaplan–Meier curves compare overall survival between the high and low-TLR4-expression groups. The observed separation between curves indicates that TLR4 expression may be associated with differences in survival outcomes in these cancer types:
 
 ### 1. KIRC
 
