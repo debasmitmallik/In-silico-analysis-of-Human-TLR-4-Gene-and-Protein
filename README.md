@@ -451,8 +451,7 @@ The Kaplan–Meier curves compare overall survival between the high and low-TLR4
 
 ### Interpretation
 
-The results suggest that the relationship between TLR4 expression and patient survival may be cancer-type dependent. The five significant associations identify potential directions for further investigation into the role of TLR4 in tumor biology and its possible prognostic relevance.
-However, statistical significance alone does not establish whether high TLR4 expression is favorable or unfavorable across all five cancers. The direction and magnitude of each association should be interpreted from the corresponding survival curves, hazard ratios, and statistical results.
+Kaplan–Meier survival analysis revealed cancer-type-dependent associations between TLR4 expression and overall survival. Higher TLR4 expression was associated with better observed survival in KIRC, whereas lower expression appeared to be associated with better survival in LAML, THYM, and TGCT. The LUAD survival curves showed a less distinct separation. These findings suggest that the prognostic association of TLR4 expression may vary across cancer types and should be interpreted as exploratory pending statistical validation.
 
 ### Methodology
 
