@@ -407,7 +407,7 @@ Pan-cancer expression profiling of Toll-like Receptor 4 (TLR4) was performed usi
 
 To investigate the potential prognostic relevance of TLR4 expression, individual Kaplan–Meier survival analyses were performed for cancer types showing a statistically significant association with TLR4 expression.
 
-Five cancer types exhibited statistically significant survival differences (p < 0.05) between the high- and low-TLR4-expression groups:
+Five cancer types exhibited statistically significant survival differences (p < 0.05) between the high and low-TLR4-expression groups:
 
 | Cancer Type | Abbreviation | p |
 |---|---|---|
