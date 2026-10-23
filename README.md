@@ -539,7 +539,7 @@ The repository contains supporting data and analysis files generated during the 
 - Gene Ontology enrichment highlighted innate immune, lipopolysaccharide-response, receptor, and membrane-associated functions.
 - Pathway analysis identified major MyD88-dependent and TRIF-dependent TLR4 signaling pathways.
 - Clinically annotated TLR4 variants were investigated, including rs4986790 (p.Asp299Gly).
-- GEPIA3 analysis identified a significant association between TLR4 expression and overall survival in KIRC,LUAD,LAML,THYM and TGCT.
+- GEPIA3 analysis identified an association between TLR4 expression and overall survival in KIRC, LUAD, LAML, THYM and TGCT.
 
 ---
 # Future Scope
