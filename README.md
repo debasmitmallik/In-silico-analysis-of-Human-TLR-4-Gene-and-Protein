@@ -500,11 +500,11 @@ In-silico-analysis-of-Human-TLR-4-Gene-and-Protein/
     ├── TLR4_pathway_enrichment.png            # KEGG pathway enrichment (Fig. 9)
     ├── TLR4_variants.png                      # ClinVar variant distribution (Fig. 10)
     ├── TLR4_pan_cancer_plot.png               # GEPIA pan-cancer expression (Fig. 11)
-    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma
-    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia
-    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma
-    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma
-    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors
+    ├── KIRC.jpg                               # Kaplan–Meier plot, kidney renal clear cell carcinoma (Fig. 12)
+    ├── LAML.jpg                               # Kaplan–Meier plot, acute myeloid leukemia (Fig. 13)
+    ├── LUAD.jpg                               # Kaplan–Meier plot, lung adenocarcinoma (Fig. 14)
+    ├── THYM.jpg                               # Kaplan–Meier plot, thymoma (Fig. 15)
+    └── TGCT.jpg                               # Kaplan–Meier plot, testicular germ cell tumors (Fig. 16)
 ```
 
 # Supporting Files
